@@ -13,5 +13,6 @@
 - Have PyCharm IDE installed with 'webdriver' Python interpreter added
   
 ## Execution
-- Import and save the pruebaTecnica.py
+- In the IDE create a Pyhton project
+- Import and save the pruebaTecnica.py in the project
 - Run the project
